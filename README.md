@@ -45,7 +45,4 @@ Since this project is a static webpage, it doesn't require complex installation.
 * **Clear and Simple Interface:** Focused on ease of navigation and content clarity.
 * **Defined Sections:** Clearly structured presentation, portfolio, and contact sections for intuitive navigation.
 
-
-This project is distributed under the **[Mention License Here, e.g., MIT]** License. See the `LICENSE` file for more details.
-
 ---
