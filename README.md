@@ -21,7 +21,7 @@ The site is divided into three main sections:
 
 ---
 
-## 🛠️ Technologies Used  
+## 🧑‍💻 Technologies Used  
 
 This project was developed using the following technologies:
 
