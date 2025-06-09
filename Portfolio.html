@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Personal Portafolio</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="animate-page">
+
+  <h1>Samuel Monsalve Orrego - Riwi Developer</h1>
+
+  <nav>
+    <a href="./index.html">Presentation</a>
+    <a href="#presentation">About Me</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#favorite-languages">Favorite Languages</a>
+    <a href="./Portfolio.html">Portfolio</a>
+    <a href="./Contact.html">Contact</a>
+  </nav>
+  <main>
+  <section id="presentation" class="reveal">
+    <h2>About Me</h2>
+    <p>My name is Samuel, I am 19 years old, and I was born in the beautiful city of Medellín. I am a passionate web developer with experience in building dynamic and functional websites.</p>
+    <p>I love learning new technologies and working on challenging projects. My hobbies include playing basketball, reading manga, cooking, and drawing.</p>
+    <img src="./img/Samuel.jpg" alt="Profile Photo" width="200">
+  </section>
+  </main>
+  <section id="skills" class="reveal">
+    <h2>Skills</h2>
+    <ul class="skills">
+      <li><i class="fab fa-js-square"></i> JavaScript</li>
+      <li><i class="fab fa-python"></i> Python</li>
+      <li><i class="fab fa-java"></i> Java</li>
+      <li><i class="fas fa-code"></i> C#</li>
+      <li><i class="fas fa-database"></i> SQL</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="reveal">
+    <h2>Projects</h2>
+
+    <h3>Project 1: Python Inventory Test</h3>
+    <p>This project was a Python test where I had to create a store inventory system to add, search, modify, delete, and calculate the total value of products as a demonstration of basic Python knowledge.</p>
+    <img src="./img/Proyect_1.png" alt="Project 1" class="project-img" onclick="openFullscreen(this.src)">
+
+    <h3>Project 2: Java Functions</h3>
+    <p>This university project involved implementing basic Java functions to explain how they work.</p>
+    <img src="./img/Proyect_2.png" alt="Project 2" class="project-img" onclick="openFullscreen(this.src)">
+
+    <h3>Project 3: Team Task Simulation</h3>
+    <p>This project simulates how to manage a team’s work through tasks that can be tracked by status (to-do, in progress, done). Tasks can be modified, added, or deleted.</p>
+    <img src="./img/Proyect_3.png" alt="Project 3" class="project-img" onclick="openFullscreen(this.src)">
+
+    <table>
+      <tr>
+        <th>Project</th>
+        <th>Technologies</th>
+        <th>Link</th>
+      </tr>
+      <tr>
+        <td>Training 1</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Samnmy/Entrenamiento-1" target="_blank"><i class="fab fa-github"></i></a></td>
+      </tr>
+      <tr>
+        <td>Training 2</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Samnmy/Entrenamiento-2" target="_blank"><i class="fab fa-github"></i></a></td>
+      </tr>
+      <tr>
+        <td>Training 3</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Samnmy/Entrenamiento-3" target="_blank"><i class="fab fa-github"></i></a></td>
+      </tr>
+    </table>
+  </section>
+  <section id="favorite-languages" class="reveal">
+  <h2>Favorite Languages</h2>
+  <div class="grid-container">
+    <div class="card">
+      <i class="fab fa-js-square fa-3x" style="color: #f7df1e;"></i>
+      <h3>JavaScript</h3>
+      <p>Great for dynamic and interactive websites.</p>
+    </div>
+    <div class="card">
+      <i class="fab fa-python fa-3x" style="color: #3776AB;"></i>
+      <h3>Python</h3>
+      <p>Ideal for scripting, data analysis, and automation.</p>
+    </div>
+    <div class="card">
+      <i class="fab fa-java fa-3x" style="color: #f89820;"></i>
+      <h3>Java</h3>
+      <p>Robust language for backend and mobile development.</p>
+    </div>
+    <div class="card">
+      <i class="fas fa-code fa-3x" style="color: #68217A;"></i>
+      <h3>C#</h3>
+      <p>Perfect for desktop apps and game development with Unity.</p>
+    </div>
+  </div>
+  </section>
+
+  <div id="fullscreen" class="fullscreen-img" onclick="closeFullscreen()">
+    <span class="close-btn" onclick="closeFullscreen()">×</span>
+    <img id="fullscreen-img" src="">
+  </div>
+
+<footer><!-- Link to external JavaScript file -->
+  <script src="functions.js"></script>
+
+  <div class="gengar-floating">
+    <img src="./img/Gengar.png" alt="Gengar" />
+  </div>
+
+  <div class="gengar-floating2">
+    <img src="./img/Gengar_pro.png" alt="Gengar" />
+  </div>
+
+</body>
+</footer>
+</html>
+<!-- End of HTML document -->
