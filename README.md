@@ -2,10 +2,10 @@
 
 ---
 
-* Name: Samuel  
-* Clan: Gosling  
-* Email: samuel.monsalve.orrego @gmail.com  
-* C.C.: 1.013.458.915  
+* Name: Samuel    
+* Clan: Gosling    
+* Email: samuel.monsalve.orrego@gmail.com   
+* C.C.: 1.013.458.915   
 
 ---  
 
