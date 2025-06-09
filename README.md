@@ -17,11 +17,11 @@ The site is divided into three main sections:
 
 * **Presentation:** A brief introduction about me.
 * **Portfolio:** A display of my projects and works.
-* **Contact Me:** A section for you to get in touch with me.
+* **Contact Me:** A section for you to get in touch with me.  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used  
 
 This project was developed using the following technologies:
 
@@ -45,21 +45,6 @@ Since this project is a static webpage, it doesn't require complex installation.
 * **Clear and Simple Interface:** Focused on ease of navigation and content clarity.
 * **Defined Sections:** Clearly structured presentation, portfolio, and contact sections for intuitive navigation.
 
----
-
-## 🤝 How to Contribute
-
-While this is a personal project, feel free to explore it and give your feedback. If you have suggestions or find any bugs, you can:
-
-1. `Fork` the repository.
-2. Create a new branch (`git checkout -b feature/new-feature`).
-3. Make your changes and `commit` (`git commit -m 'feat: Add new feature'`).
-4. Push your changes (`git push origin feature/new-feature`).
-5. Open a `Pull Request`.
-
----
-
-## 📄 License
 
 This project is distributed under the **[Mention License Here, e.g., MIT]** License. See the `LICENSE` file for more details.
 
