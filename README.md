@@ -2,6 +2,13 @@
 
 ---
 
+* Name: Samuel  
+* Clan: Gosling  
+* Email: samuel.monsalve.orrego@gmail.com  
+* C.C.: 1.013.458.915  
+
+---  
+
 ## 🚀 About the Project
 
 Welcome to my "HTML and CSS Test" project! This is a personal webpage I've created to showcase my skills in **HTML and CSS**, with a touch of **JavaScript** for added interactivity. The page is designed to serve as a digital introduction and a showcase of my work.
