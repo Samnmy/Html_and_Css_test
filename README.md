@@ -31,7 +31,7 @@ This project was developed using the following technologies:
 
 ---  
 
-# 🌐 Project Visualization
+## 🌐 Project Visualization
 
 Since this project is a static webpage, it doesn't require complex installation. You can view the project directly via the link provided by the GitHub repository:
 
